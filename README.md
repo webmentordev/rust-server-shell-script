@@ -9,3 +9,6 @@ It Updates the Oxide and the server.
 
 ## Install Update Umod File
 It Downloads and Install + Update Oxide Only.
+
+## Start Server Batch File
+It Only Starts and Update The Server Only. For Windows Only
