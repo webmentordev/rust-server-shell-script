@@ -1,4 +1,4 @@
-# Commands To Run All Scripts
+# Commands To Run All Script
 export 'TERM=roxterm' && ./*script_name_here*.sh
 
 ## Start Server File
